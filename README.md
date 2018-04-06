@@ -27,15 +27,15 @@ SearchWindow.java, the window for searching the database and deleting songs.
 
 LoginDriver.java, the login window and starting point of the program.
 
-MainWindow.java, the main window of the program where playlists are displayed
+MainWindow.java, the main window of the program where playlists are displayed.
 
-MusicDatabase.java, utilities for the MainWindow GUI and playlist management
+MusicDatabase.java, utilities for the MainWindow GUI and playlist management.
 
-Playlist.java, a class for creating playlist objects
+Playlist.java, a class for creating playlist objects.
 
-PlaylistEditor.java, a window for editing playlists,
+PlaylistEditor.java, a window for editing playlists.
 
-PlaylistWriter.java, writes playlists to text files
+PlaylistWriter.java, writes playlists to text files.
 
 Song.java, a class for creating song objects.
 
