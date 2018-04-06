@@ -15,17 +15,28 @@ We used a sqlite database for this system.
 
 Most of the GUI was created using WindowBuilder in Eclipse.
 
-Modules I wrote:
+---------------------------------------------Modules I wrote:
+
 DBIO.java, a program that preforms most of the required database IO operations for the project.
+
 InsertWNDW.java, the window for adding new songs to the database.
+
 SearchWindow.java, the window for searching the database and deleting songs.
 
-Other Modules:
+---------------------------------------------Other Modules:
+
 LoginDriver.java, the login window and starting point of the program.
+
 MainWindow.java, the main window of the program where playlists are displayed
+
 MusicDatabase.java, utilities for the MainWindow GUI and playlist management
+
 Playlist.java, a class for creating playlist objects
+
 PlaylistEditor.java, a window for editing playlists,
+
 PlaylistWriter.java, writes playlists to text files
+
 Song.java, a class for creating song objects.
+
 UpdateWindow.java, a window to update songs.
